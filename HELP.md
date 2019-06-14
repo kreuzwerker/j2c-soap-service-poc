@@ -12,3 +12,6 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 * [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 
+
+### Quick Boot Run
+Type the command "./mvnw spring-boot:run" to start the service
