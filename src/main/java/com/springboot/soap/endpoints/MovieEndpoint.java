@@ -18,7 +18,7 @@ import com.springboot.soap.services.MovieEntityService;
 @Endpoint
 public class MovieEndpoint{
 
-    public static final String NAMESPACE_URI = "http://www.javaspringclub.com/movies-ws";
+    public static final String NAMESPACE_URI = "http://www.abc.com/movies-ws";
 
     private MovieEntityService service;
 
